@@ -1,0 +1,22 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+build*/
+*.pro.user*
+CMakeLists.txt.user
+*.DS_Store
+*.qm
+
+# binary file
+dde-dock
